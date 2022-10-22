@@ -1,0 +1,6 @@
+- Acceso de entrada en un sistema hecho en C#.
+- Trabajador/es: Davit Costa Martinez y Victor Gimenez Gil.
+- Este programa es un sistema de entrada en un edificio. Para eso usamos una base de datos en MySql donde podiamos guardar, editar o borrar gente del personal.
+  Tambien dabamos de alta a trabajadores o administradores en el menu de administracion y por ultimo tenemos para saber si esta dentro o fuera del sistema y 
+  para ver si cuanto tiempo ha estado en la empresa.
+- Mi trabajo fue: hacer el diseño principal y de mantenimiento, hacer la programacion de mantenimiento y ayudar en el principal.
